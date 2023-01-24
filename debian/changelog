@@ -1,0 +1,7 @@
+policykit-1 (122.1+denios5) testing; urgency=medium
+
+  * Rebuild package for Denios Gnu/Linux
+  * Initial release.
+  * Initial version.
+
+ -- Denis Maslo <denios-linux@proton.me> Mon, 23 Jan 2023 19:31:14 +0100
